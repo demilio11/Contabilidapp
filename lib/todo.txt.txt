@@ -1,0 +1,3 @@
+//poder exportar a csv movimiento mensuales
+//que solo gaston pueda crear usuarios y que el elija que wallets compartir
+//agregar en los gastos/ingresos el medio de pago
